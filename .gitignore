@@ -1,0 +1,20 @@
+# *.h5
+# *model.json
+# data/
+# MP_Data/
+# *MP_Data/
+# data_letters/
+# .ipynb_checkpoints
+# *.mp4
+# *extracted_features.npy
+# *.npy
+# Logs/
+# *.pt
+# FinalData/
+# *__pycache__
+# *__pycache__/
+# *.tar
+# *.pth
+# *.zip
+
+*v_*
